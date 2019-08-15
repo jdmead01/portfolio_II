@@ -1,0 +1,48 @@
+.be.comment-group {
+  overflow: hidden;
+  .comment {
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+.be.comment {
+  .common-list(@comment-avatar-width, @comment-avatar-width);
+  .summary {
+    margin-bottom: @comment-right-inline-margin;
+    .time {
+      font-size: @font-size-small;
+      color: @gray-light;
+    }
+  }
+  .content {
+    margin-bottom: @comment-right-inline-margin;
+  }
+  .comments .comment:last-child {
+    padding-bottom: 0;
+  }
+  .reply {
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    border-left: 3px solid @gray-light;
+    font-size: @font-size-base;
+    color: @gray-light;
+  }
+  .meta {
+    font-size: @font-size-small;
+  }
+}
+
+.be.comment-form {
+  .meta {
+    margin-top: 10px;
+  }
+  .user {
+    img {
+      .square(35px);
+    }
+  }
+  .btn-submit {
+    float: right;
+  }
+}

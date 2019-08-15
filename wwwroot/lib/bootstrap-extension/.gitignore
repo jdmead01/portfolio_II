@@ -1,0 +1,8 @@
+.*
+*.log
+!.gitignore
+!.jshintrc
+css/
+!dist/css/
+bower_components/
+node_modules/

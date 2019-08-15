@@ -1,0 +1,29 @@
+body {
+}
+
+img {
+    width: 400px;
+    vertical-align: top;
+}
+.aboutme { display: inline-block;
+    width: 500px;
+}
+.navbar-dark {
+    background-color: #008080;
+    color: white;
+}
+
+.navbar-dark, .nav-link{ color: white;}
+
+.nav-link, li{ margin: 10px; list-style: none; 
+}
+
+.projectList{
+    background-color: yellow;
+}
+
+#wrapper{
+    background-color: #008080;
+    height: 1000px;
+    text-align: center;
+}

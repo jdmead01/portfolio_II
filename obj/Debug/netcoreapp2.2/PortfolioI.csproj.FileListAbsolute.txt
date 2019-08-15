@@ -1,0 +1,14 @@
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/ASP_MVC_I/portfolio_I/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.deps.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/ASP_MVC_I/portfolio_I/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.runtimeconfig.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/ASP_MVC_I/portfolio_I/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.runtimeconfig.dev.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/ASP_MVC_I/portfolio_I/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.dll
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/ASP_MVC_I/portfolio_I/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.pdb
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/ASP_MVC_I/portfolio_I/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.csprojAssemblyReference.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/ASP_MVC_I/portfolio_I/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.csproj.CoreCompileInputs.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/ASP_MVC_I/portfolio_I/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.RazorAssemblyInfo.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/ASP_MVC_I/portfolio_I/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.RazorAssemblyInfo.cs
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/ASP_MVC_I/portfolio_I/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.AssemblyInfoInputs.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/ASP_MVC_I/portfolio_I/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.AssemblyInfo.cs
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/ASP_MVC_I/portfolio_I/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.RazorTargetAssemblyInfo.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/ASP_MVC_I/portfolio_I/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.dll
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/ASP_MVC_I/portfolio_I/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.pdb
